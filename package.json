@@ -1,6 +1,6 @@
 {
-  "name": "vue-markdown-loader",
-  "version": "0.6.2",
+  "name": "v-markdown-loader",
+  "version": "0.6.3-beta.3",
   "description": "markdown file to vue component loader.",
   "main": "index.js",
   "scripts": {
